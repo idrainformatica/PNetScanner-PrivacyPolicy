@@ -33,4 +33,4 @@ Since the scan history is stored locally, you have full control. You can delete 
 ### 5. Contact Information
 If you have questions regarding this policy, please contact us:
 
-**Idra Informatica** Email: [Inserisci la tua Email Qui]
+**Idra Informatica** Email: matteo@idrainformatica.it
